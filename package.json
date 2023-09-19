@@ -1,0 +1,18 @@
+{
+  "name": "git-test-02",
+  "version": "1.0.0",
+  "description": " yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VietHoang",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "This is example about git-test-02"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
